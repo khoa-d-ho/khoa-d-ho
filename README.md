@@ -3,9 +3,9 @@
 
 ### 💫 About Me:
 * 🎓 I am pursuing my B.S. in Computer Science, Mathematics minor at [Denison University](https://denison.edu/)
-* 💼 This semester, I am currently working as a Software Engineer Intern at [Stolle Machinery](https://www.stollemachinery.com/about-stolle) - Asia Pacific
-* 📚 I am currently diving deep into **Operating Systems**
-* 🔍 Finally, I am looking for Summer 2025 internship opportunities
+* 💼 This semester, I am currently working as a Software Engineer Intern at [Amazon Web Services](https://aws.amazon.com/) 
+* 📚 I just wrapped up my deep dive into **Operating Systems**
+* 🔍 Finally, I am looking for Summer 2026 internship opportunities!
 * 🥳 Glad to meet you here!
 
 ### Let's Connect! 🤝
