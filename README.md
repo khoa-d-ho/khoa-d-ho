@@ -3,7 +3,7 @@
 
 ### 💫 About Me:
 * 🎓 I am pursuing my B.S. in Computer Science with a minor in Mathematics at [Denison University](https://denison.edu/)
-* 💼 This summer, I am currently working as a **Software Engineer Intern** at [Amazon Web Services](https://aws.amazon.com/) 
+* 💼 Last summer, I worked as a **Software Engineer Intern** at [Amazon Web Services](https://aws.amazon.com/) 
 * 📚 I just wrapped up my deep dive into **Operating Systems**
 * 🔍 Finally, I am looking for Summer 2026 internship opportunities!
 * 🥳 Glad to meet you here!
