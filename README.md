@@ -12,6 +12,3 @@ Looking for SWE New Grad 2027 roles!
 <a href="https://linkedin.com/in/khoa-d-ho">LinkedIn</a> &nbsp;&middot;&nbsp; 
 <a href="https://instagram.com/hodakwa">Instagram</a> &nbsp;&middot;&nbsp; 
 <a href="mailto:ho_d1@denison.edu">Email</a>
-
-
-Check out some of my work ↓
