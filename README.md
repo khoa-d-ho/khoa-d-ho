@@ -14,7 +14,8 @@
 * [Email](mailto:ho_d1@denison.edu)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="MasterHead">
+  <img src="https://camo.githubusercontent.com/1c574effbba26270f98d3bf7e79b93ced7875f8f01a7cc86181b373d158aabb4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f36396a744a3745677465525856704153534e2f736f757263652e676966" alt="MasterHead">
+  
 </div>
 
 ### 💻 Tech Stack:
