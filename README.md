@@ -2,7 +2,7 @@
 
 Hi 👋, I'm Khoa Ho
 
-I'm a CS & Math student at Denison University, former AWS Intern, incoming Google Intern, and looking for New Grad 2027 SWE roles.
+I'm a CS & Math student at Denison University, former AWS Intern, incoming Google Intern, looking for SWE NG 2027 roles.
 
 <img src="https://media.giphy.com/media/69jtJ7EgteRXVpASSN/source.gif" alt="Coding GIF" width="250">
 
